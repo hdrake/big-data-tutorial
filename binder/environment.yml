@@ -11,6 +11,8 @@ dependencies:
   - matplotlib
   - pandas
   - xarray
+  - dask
+  - graphviz
   - xmitgcm
   - sparse
   - cftime=1.0.3.4
