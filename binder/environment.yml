@@ -11,13 +11,13 @@ dependencies:
   - matplotlib
   - pandas
   - xarray
-  - dask>=2.5.2
-  - distributed>=2.5
-  - dask-kubernetes>=0.92
-  - graphviz=2.40
+  - dask
+  - distributed
+  - dask-kubernetes
+  - graphviz
   - xmitgcm
   - sparse
-  - cftime=1.0.3.4
+  - cftime
   - cartopy
   - netcdf4
   - h5py
